@@ -1,2 +1,2 @@
-This Repository contains all codes i have written during my studies in university.
+This Repository contains all codes written during eng202.
 Python Jupyter Notebook.
