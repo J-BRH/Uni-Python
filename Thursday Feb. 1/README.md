@@ -1,1 +1,2 @@
-TUPLES,    GLOBAL/LOCAL,    RANGE,    TEMP,    APPEND.
+# CODES WRITTEN
+Tuples, Global/Local, Range, Temporary Variables, Append.
