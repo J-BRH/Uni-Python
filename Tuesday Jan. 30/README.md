@@ -1,1 +1,2 @@
-NAME GUESSER,    NUMBER GUESSER,    CHARACTER CHECKER,    COURSE COUNTER,    WRITE/READ
+# CODES WRITTEN
+Name Guesser, Number Guesser, Course Counter, Same Character Checker, Write/Read.
